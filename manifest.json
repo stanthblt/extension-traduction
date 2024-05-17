@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "DeepL",
+  "version": "1.0",
+  "permissions": [
+    "activeTab"
+  ],
+  "host_permissions": [
+    "*://*.deepl.com/*"
+  ],
+  "action": {
+    "default_popup": "src/html/popup.html"
+  },
+  "icons": {
+    "16": "src/img/deepl.png",
+    "48": "src/img/deepl.png",
+    "128": "src/img/deepl.png"
+  }
+}
