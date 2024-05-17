@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const translateButton = document.getElementById('translateButton');
     const inputText = document.getElementById('inputText');
     const language = document.getElementById('language');
-    const APIkey = ''; // API key for Deepl https://www.deepl.com/fr/signup?cta=checkout
+    var APIkey = localStorage.getItem('cleAPI');
 
     translateButton.addEventListener('click', function() {
         const textToTranslate = inputText.value;
