@@ -31,7 +31,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants :
 ## 🚀 Utilisation
 
 1.  Cliquez sur l'icône de l'extension dans la barre d'outils de Chrome.
-2.  Cliquez sur Option puis renseigner votre clé API en appuyant sur valider.
+2.  Cliquez sur Options, puis renseignez votre clé API en appuyant sur Valider.
 3.  Entrez le texte que vous souhaitez traduire.
 4.  Sélectionnez la langue dans laquelle vous souhaitez traduire votre texte.
 5.  Cliquez ensuite sur "Traduire" et le tour est joué.
