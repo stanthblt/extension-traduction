@@ -32,7 +32,7 @@ input{
     resize: none;
 }
 
-a{
+.buttonRetour{
     padding: 6px 159.04px;
     text-decoration: none;
     font-size: 16px;
@@ -44,7 +44,7 @@ a{
     transition: 200ms;
 }
 
-a:hover{
+.buttonRetour:hover{
     border: 2px solid #6374ae;
     background-color: white;
     color: #6374ae;
@@ -68,7 +68,14 @@ button:hover{
     color: #6374ae;
 }
 
+a{
+    color:#4a5989;
+    font-size:15px;
+    margin-top: 10px;
+    text-decoration: none;
+}
+
 h5{
     color: #4a5989;
-    margin-top: 66px;
+    margin-top: 35px;
 }
