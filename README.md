@@ -1,5 +1,7 @@
 # 🌐 Chrome Extension - DeepL Translator 🌐
 
+![Extension DeepL](./src/img/extDeepL.png)
+
 ## 📜 Description
 
 Cette extension Chrome vous permet de traduire n'importe quelle phrase ou mot dans les langues fournies par DeepL, en utilisant l'API de DeepL. Elle est facile à utiliser et offre des traductions rapides et précises directement depuis votre navigateur.
